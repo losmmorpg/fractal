@@ -1,8 +1,6 @@
 import turtle
 import random
 
-colors = ["red", "orange", "yellow", "green", "blue", "purple"]
-
 # draws a fractal tree
 def tree(size, origsize):
     if size > 0:
